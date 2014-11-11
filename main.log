@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Debian) (preloaded format=pdflatex 2014.10.30)  11 NOV 2014 01:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Debian) (preloaded format=pdflatex 2014.10.30)  11 NOV 2014 03:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -982,21 +982,21 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 45.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1072,8 +1072,8 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 46.
-LaTeX Info: Redefining \microtypecontext on input line 46.
+(lastpage)             ! on input line 45.
+LaTeX Info: Redefining \microtypecontext on input line 45.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1087,7 +1087,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 45.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1097,16 +1097,16 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count159
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
  ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -1116,10 +1116,10 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 50
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 49
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
@@ -1129,30 +1129,30 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 50
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 49
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 50
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 49
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 50
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 49
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1161,104 +1161,246 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
  []
 
+
+Package natbib Warning: Citation `eppy' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `steam_sterilization_PLA' on page 1 undefined 
+on input line 89.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 93.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 93.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+
+Package natbib Warning: Citation `pla_suture_review' on page 1 undefined on inp
+ut line 92.
+
+
+Package natbib Warning: Citation `gama_radiation_PLA' on page 1 undefined on in
+put line 93.
+
+
+LaTeX Warning: Reference `fig:pasteurization' on page 1 undefined on input line
+ 99.
+
+
+LaTeX Warning: Reference `fig:pasteurization' on page 1 undefined on input line
+ 111.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Pasteurization.pdf, id=107, 433.62pt x 289.08pt>
+<Pasteurization.pdf, id=20, 433.62pt x 289.08pt>
 File: Pasteurization.pdf Graphic file (type pdf)
  <use Pasteurization.pdf>
-Package pdftex.def Info: Pasteurization.pdf used on input line 134.
+Package pdftex.def Info: Pasteurization.pdf used on input line 133.
 (pdftex.def)             Requested size: 249.07796pt x 166.05208pt.
 
-<preliminary_test.png, id=108, 766.865pt x 388.45125pt>
+<preliminary_test.png, id=21, 766.865pt x 388.45125pt>
 File: preliminary_test.png Graphic file (type png)
 
 <use preliminary_test.png>
-Package pdftex.def Info: preliminary_test.png used on input line 187.
+Package pdftex.def Info: preliminary_test.png used on input line 186.
 (pdftex.def)             Requested size: 207.56285pt x 105.1381pt.
- [2 <./Pasteurization.pdf>] [3 <./preliminary_test.png>] <mouse_UV.jpg, id=184,
- 750.805pt x 531.9875pt>
+
+
+LaTeX Warning: Reference `fig:preliminary' on page 2 undefined on input line 20
+4.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 211.
+
+[2 <./Pasteurization.pdf>]
+
+LaTeX Warning: Reference `fig:3Dparts' on page 3 undefined on input line 227.
+
+
+Package natbib Warning: Citation `AYE_broth' on page 3 undefined on input line 
+248.
+
+
+LaTeX Warning: Reference `contamination_id' on page 3 undefined on input line 2
+54.
+
+
+Package natbib Warning: Citation `seaweed_human_gut' on page 3 undefined on inp
+ut line 259.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 264.
+
+[3 <./preliminary_test.png>]
+
+Package natbib Warning: Citation `spores' on page 4 undefined on input line 267
+.
+
+
+Package natbib Warning: Citation `spore_germinant_salt' on page 4 undefined on 
+input line 267.
+
+
+Package natbib Warning: Citation `PLA_1975' on page 4 undefined on input line 2
+76.
+
+
+Package natbib Warning: Citation `PLA_1966' on page 4 undefined on input line 2
+77.
+
+
+Package natbib Warning: Citation `Vicryl' on page 4 undefined on input line 278
+.
+
+
+Package natbib Warning: Citation `bone_printing' on page 4 undefined on input l
+ine 280.
+
+
+LaTeX Warning: Reference `fig:mouse_control' on page 4 undefined on input line 
+291.
+
+
+LaTeX Warning: Reference `fig:mouse_uv' on page 4 undefined on input line 292.
+
+
+LaTeX Warning: Reference `fig:mouse_nouv' on page 4 undefined on input line 292
+.
+
+<mouse_UV.jpg, id=80, 750.805pt x 531.9875pt>
 File: mouse_UV.jpg Graphic file (type jpg)
  <use mouse_UV.jpg>
-Package pdftex.def Info: mouse_UV.jpg used on input line 308.
+Package pdftex.def Info: mouse_UV.jpg used on input line 307.
 (pdftex.def)             Requested size: 99.63245pt x 70.58948pt.
 
-<mouse_noUV.jpg, id=185, 750.805pt x 531.9875pt>
+<mouse_noUV.jpg, id=81, 750.805pt x 531.9875pt>
 File: mouse_noUV.jpg Graphic file (type jpg)
  <use mouse_noUV.jpg>
-Package pdftex.def Info: mouse_noUV.jpg used on input line 315.
+Package pdftex.def Info: mouse_noUV.jpg used on input line 314.
 (pdftex.def)             Requested size: 99.63245pt x 70.58948pt.
 
-<mouse_UVbetween.jpg, id=186, 753.81625pt x 530.98375pt>
+<mouse_UVbetween.jpg, id=82, 753.81625pt x 530.98375pt>
 File: mouse_UVbetween.jpg Graphic file (type jpg)
 
 <use mouse_UVbetween.jpg>
-Package pdftex.def Info: mouse_UVbetween.jpg used on input line 322.
+Package pdftex.def Info: mouse_UVbetween.jpg used on input line 321.
 (pdftex.def)             Requested size: 99.63245pt x 70.1727pt.
-
-<mouse_control.jpg, id=187, 591.20876pt x 407.5225pt>
+ <mouse_control.jpg, id=83, 591.20876pt x 407.5225pt>
 File: mouse_control.jpg Graphic file (type jpg)
- <use mouse_control.jpg>
-Package pdftex.def Info: mouse_control.jpg used on input line 329.
+
+<use mouse_control.jpg>
+Package pdftex.def Info: mouse_control.jpg used on input line 328.
 (pdftex.def)             Requested size: 99.63245pt x 68.67473pt.
 
+
+Package natbib Warning: Citation `swimplate' on page 4 undefined on input line 
+349.
+
+
+Package natbib Warning: Citation `lenski1991' on page 4 undefined on input line
+ 359.
+
+
+Package natbib Warning: Citation `keio' on page 4 undefined on input line 360.
+
+
+Package natbib Warning: Citation `WatersLabMSU2014' on page 4 undefined on inpu
+t line 362.
+
+
+LaTeX Warning: Reference `fig:swim_plate_3' on page 4 undefined on input line 3
+64.
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 370.
+
 [4 <./mouse_UV.jpg> <./mouse_noUV.jpg> <./mouse_UVbetween.jpg> <./mouse_control
-.jpg>] <swim_plate_0.jpg, id=208, 814.30986pt x 610.73239pt>
+.jpg>] <swim_plate_0.jpg, id=92, 814.30986pt x 610.73239pt>
 File: swim_plate_0.jpg Graphic file (type jpg)
 
 <use swim_plate_0.jpg>
-Package pdftex.def Info: swim_plate_0.jpg used on input line 376.
+Package pdftex.def Info: swim_plate_0.jpg used on input line 375.
 (pdftex.def)             Requested size: 99.63245pt x 74.71985pt.
- <swim_plate_1.jpg, id=209, 1638.12pt x 1228.59pt>
+ <swim_plate_1.jpg, id=93, 1638.12pt x 1228.59pt>
 File: swim_plate_1.jpg Graphic file (type jpg)
 
 <use swim_plate_1.jpg>
-Package pdftex.def Info: swim_plate_1.jpg used on input line 383.
+Package pdftex.def Info: swim_plate_1.jpg used on input line 382.
 (pdftex.def)             Requested size: 99.63245pt x 74.72453pt.
- <swim_plate_2.jpg, id=210, 1638.12pt x 1228.59pt>
+ <swim_plate_2.jpg, id=94, 1638.12pt x 1228.59pt>
 File: swim_plate_2.jpg Graphic file (type jpg)
 
 <use swim_plate_2.jpg>
-Package pdftex.def Info: swim_plate_2.jpg used on input line 390.
+Package pdftex.def Info: swim_plate_2.jpg used on input line 389.
 (pdftex.def)             Requested size: 99.63245pt x 74.72453pt.
- <swim_plate_3.jpg, id=211, 1638.12pt x 1228.59pt>
+ <swim_plate_3.jpg, id=95, 1638.12pt x 1228.59pt>
 File: swim_plate_3.jpg Graphic file (type jpg)
 
 <use swim_plate_3.jpg>
-Package pdftex.def Info: swim_plate_3.jpg used on input line 397.
+Package pdftex.def Info: swim_plate_3.jpg used on input line 396.
 (pdftex.def)             Requested size: 99.63245pt x 74.72453pt.
 
-Overfull \hbox (4.53479pt too wide) in paragraph at lines 416--416
+Overfull \hbox (4.53479pt too wide) in paragraph at lines 415--415
 []\OT1/ptm/m/n/9 (-20) Media| 
  []
 
 
-Overfull \hbox (2.00293pt too wide) in paragraph at lines 416--416
+Overfull \hbox (2.00293pt too wide) in paragraph at lines 415--415
 []$ []\OT1/ztmcm/m/n/9 C$| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
+Package natbib Warning: Citation `tweet_conjecture' on page 5 undefined on inpu
+t line 416.
+
+
+Package natbib Warning: Citation `tweet_first_result_1' on page 5 undefined on 
+input line 416.
+
+
+Package natbib Warning: Citation `tweet_first_result_2' on page 5 undefined on 
+input line 416.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
 []\OT1/ptm/m/n/9 (+20) Preliminary
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+[]\OT1/ptm/m/n/9 (+20) Orange
+ []
+
+
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 416--416
+[]\OT1/ptm/m/n/9 (-20) UCD| 
+ []
+
+
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 416--416
+[]\OT1/ptm/m/n/9 (-20) UCD| 
+ []
+
+
+Package natbib Warning: Citation `tweet_2nd_test' on page 5 undefined on input 
+line 417.
+
+
+Package natbib Warning: Citation `tweet_2nd_result' on page 5 undefined on inpu
+t line 417.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 417--417
@@ -1274,6 +1416,10 @@ Overfull \hbox (0.6189pt too wide) in paragraph at lines 417--417
 Overfull \hbox (0.6189pt too wide) in paragraph at lines 417--417
 []\OT1/ptm/m/n/9 (-20) UCD| 
  []
+
+
+Package natbib Warning: Citation `tweet_mini_flask' on page 5 undefined on inpu
+t line 418.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 418--418
@@ -1281,53 +1427,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 418--418
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 418--418
-[]\OT1/ptm/m/n/9 (-20) UCD| 
- []
-
-
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 418--418
-[]\OT1/ptm/m/n/9 (-20) UCD| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-[]\OT1/ptm/m/n/9 (+20) Small ves-sel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-[]\OT1/ptm/m/n/9 (+20) Orange
- []
-
-
-Overfull \hbox (3.19574pt too wide) in paragraph at lines 419--419
+Overfull \hbox (3.19574pt too wide) in paragraph at lines 418--418
 []\OT1/ptm/m/n/9 (-20) vessel| 
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 419--419
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 418--418
 []\OT1/ptm/m/n/9 (-20) UCD| 
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 419--419
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 418--418
 []\OT1/ptm/m/n/9 (-20) UCD| 
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 420--420
+Package natbib Warning: Citation `tweet_terrific_aye' on page 5 undefined on in
+put line 419.
+
+
+Package natbib Warning: Citation `tweet_aye_96h' on page 5 undefined on input l
+ine 419.
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 419--419
 []\OT1/ptm/m/n/9 (+20) Terrific Broth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--420
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
 []\OT1/ptm/m/n/9 (+20) Orange
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 420--420
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 419--419
 []\OT1/ptm/m/n/9 (-20) UCD| 
+ []
+
+
+Package natbib Warning: Citation `tweet_aye_96h' on page 5 undefined on input l
+ine 420.
+
+
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 420--420
+[]\OT1/ptm/m/n/9 (-20) MSU| 
+ []
+
+
+Package natbib Warning: Citation `tweet_luis_24h' on page 5 undefined on input 
+line 421.
+
+
+Package natbib Warning: Citation `tweet_luis_48h' on page 5 undefined on input 
+line 421.
+
+
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 421--421
+[]\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
@@ -1336,38 +1492,36 @@ Overfull \hbox (1.11275pt too wide) in paragraph at lines 421--421
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 422--422
-[]\OT1/ptm/m/n/9 (-20) MSU| 
- []
+Package natbib Warning: Citation `tweet_filament_interior' on page 5 undefined 
+on input line 422.
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 422--422
-[]\OT1/ptm/m/n/9 (-20) MSU| 
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 423--423
-[]\OT1/ptm/m/n/9 (+20) Filament trial
- []
-
-
-Overfull \hbox (10.9115pt too wide) in paragraph at lines 423--423
+Overfull \hbox (10.9115pt too wide) in paragraph at lines 422--422
 []\OT1/ptm/m/n/9 (-20) filament| 
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 423--423
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 422--422
 []\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 423--423
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 422--422
 []\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 424--424
-[]\OT1/ptm/m/n/9 (+20) AYE Broth 2
+Package natbib Warning: Citation `tweet_aye_2nd_test' on page 5 undefined on in
+put line 423.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\OT1/ptm/m/n/9 (+20) Orange
+ []
+
+
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 423--423
+[]\OT1/ptm/m/n/9 (-20) UCD| 
  []
 
 
@@ -1376,23 +1530,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 424--424
  []
 
 
+Overfull \hbox (5.00766pt too wide) in paragraph at lines 424--424
+[]\OT1/ptm/m/n/9 (-20) RPMI-
+ []
+
+
 Overfull \hbox (0.6189pt too wide) in paragraph at lines 424--424
 []\OT1/ptm/m/n/9 (-20) UCD| 
  []
 
 
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 424--424
+[]\OT1/ptm/m/n/9 (-20) MSU| 
+ []
+
+
+Package natbib Warning: Citation `tweet_swimming_tracks_1' on page 5 undefined 
+on input line 425.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 425--425
-[]\OT1/ptm/m/n/9 (+20) Orange
+[]\OT1/ptm/m/n/9 (+13) track
  []
 
 
-Overfull \hbox (5.00766pt too wide) in paragraph at lines 425--425
-[]\OT1/ptm/m/n/9 (-20) RPMI-
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]\OT1/ptm/m/n/9 (+20) Soft
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 425--425
-[]\OT1/ptm/m/n/9 (-20) UCD| 
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+\OT1/ptm/m/n/9 (+20) LB
  []
 
 
@@ -1401,137 +1569,156 @@ Overfull \hbox (1.11275pt too wide) in paragraph at lines 425--425
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
-[]\OT1/ptm/m/n/9 (+13) track
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
-[]\OT1/ptm/m/n/9 (+20) Soft
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
-\OT1/ptm/m/n/9 (+20) LB
- []
-
-
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 426--426
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 425--425
 []\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 426--426
-[]\OT1/ptm/m/n/9 (-20) MSU| 
- []
+Package natbib Warning: Citation `tweet_meat_broth_result' on page 5 undefined 
+on input line 426.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []\OT1/ptm/m/n/9 (+20) Meat Broth,
  []
 
 
-Overfull \hbox (0.61891pt too wide) in paragraph at lines 427--427
+Overfull \hbox (0.61891pt too wide) in paragraph at lines 426--426
 \OT1/ptm/m/n/9 (-20) broth| 
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 427--427
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 426--426
 []\OT1/ptm/m/n/9 (-20) UCD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 \OT1/ptm/m/n/9 (+20) &
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 427--427
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 426--426
 \OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 427--428
+Underfull \hbox (badness 7379) in paragraph at lines 426--427
 []$\OT1/ztmcm/m/n/9 +$ \OT1/ptm/m/n/9 (+20) growth in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+Package natbib Warning: Citation `tweet_swimming_tracks_2' on page 5 undefined 
+on input line 427.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 []\OT1/ptm/m/n/9 (+20) Swimmer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 []\OT1/ptm/m/n/9 (+20) 3-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 \OT1/ptm/m/n/9 (+13) track
  []
 
 
-Overfull \hbox (2.57704pt too wide) in paragraph at lines 428--428
+Overfull \hbox (2.57704pt too wide) in paragraph at lines 427--427
 \OT1/ptm/m/n/9 (-20) round
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 []\OT1/ptm/m/n/9 (+20) soft
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
 \OT1/ptm/m/n/9 (+20) LB
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 428--428
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 427--427
 []\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Overfull \hbox (1.11275pt too wide) in paragraph at lines 428--428
+Overfull \hbox (1.11275pt too wide) in paragraph at lines 427--427
 []\OT1/ptm/m/n/9 (-20) MSU| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Package natbib Warning: Citation `zactlewis2014' on page 5 undefined on input l
+ine 428.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 \OT1/ptm/m/n/9 (+20) tape cleaned
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 []\OT1/ptm/m/n/9 (+20) Orange
  []
 
 
-Overfull \hbox (1.60663pt too wide) in paragraph at lines 429--429
+Overfull \hbox (1.60663pt too wide) in paragraph at lines 428--428
 []\OT1/ptm/m/n/9 (-20) RCM| 
  []
 
 
-Overfull \hbox (0.6189pt too wide) in paragraph at lines 429--429
+Overfull \hbox (0.6189pt too wide) in paragraph at lines 428--428
 []\OT1/ptm/m/n/9 (-20) UCD| 
  []
 
 
-Overfull \hbox (1.6989pt too wide) in paragraph at lines 429--429
+Overfull \hbox (1.6989pt too wide) in paragraph at lines 428--428
 []\OT1/ptm/m/n/9 (-20) UCD,
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 429--429
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 428--428
 \OT1/ptm/m/n/9 (-20) Mills
  []
 
 
-Underfull \vbox (badness 1184) has occurred while \output is active []
+Package natbib Warning: Citation `tweet_conjecture' on page 5 undefined on inpu
+t line 449.
 
- [5 <./swim_plate_0.jpg> <./swim_plate_1.jpg> <./swim_plate_2.jpg> <./swim_plat
-e_3.jpg>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 463.
 
+Package natbib Warning: Citation `tweet_first_result_1' on page 5 undefined on 
+input line 449.
+
+
+Package natbib Warning: Citation `tweet_first_result_2' on page 5 undefined on 
+input line 449.
+
+
+Package natbib Warning: Citation `tweet_2nd_test' on page 5 undefined on input 
+line 449.
+
+
+Package natbib Warning: Citation `tweet_2nd_result' on page 5 undefined on inpu
+t line 449.
+
+
+Underfull \vbox (badness 4291) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 453.
+
+[5 <./swim_plate_0.jpg> <./swim_plate_1.jpg> <./swim_plate_2.jpg> <./swim_plate
+_3.jpg>]
+
+Package natbib Warning: Citation `OpenSCAD' on page 6 undefined on input line 4
+59.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 462.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -1541,74 +1728,154 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-<test_part_openscad.png, id=265, 731.73375pt x 352.31625pt>
+
+Package natbib Warning: Citation `burns1993' on page 6 undefined on input line 
+467.
+
+
+Package natbib Warning: Citation `gcode' on page 6 undefined on input line 468.
+
+
+<test_part_openscad.png, id=104, 731.73375pt x 352.31625pt>
 File: test_part_openscad.png Graphic file (type png)
 
 <use test_part_openscad.png>
-Package pdftex.def Info: test_part_openscad.png used on input line 489.
+Package pdftex.def Info: test_part_openscad.png used on input line 488.
 (pdftex.def)             Requested size: 132.84326pt x 63.96252pt.
 
-<test_part_cura.png, id=266, 853.1875pt x 435.6275pt>
+<test_part_cura.png, id=105, 853.1875pt x 435.6275pt>
 File: test_part_cura.png Graphic file (type png)
  <use test_part_cura.png>
-Package pdftex.def Info: test_part_cura.png used on input line 496.
+Package pdftex.def Info: test_part_cura.png used on input line 495.
 (pdftex.def)             Requested size: 132.84326pt x 67.82733pt.
 
-<foil_printing.jpg, id=267, 1535.7375pt x 746.79pt>
+<foil_printing.jpg, id=106, 1535.7375pt x 746.79pt>
 File: foil_printing.jpg Graphic file (type jpg)
  <use foil_printing.jpg>
-Package pdftex.def Info: foil_printing.jpg used on input line 503.
+Package pdftex.def Info: foil_printing.jpg used on input line 502.
 (pdftex.def)             Requested size: 132.84326pt x 64.59872pt.
 
+
+LaTeX Warning: Reference `3Dprinting' on page 6 undefined on input line 520.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 530.
+
 [6 <./test_part_openscad.png> <./test_part_cura.png> <./foil_printing.jpg>]
-<sterile_print_zaman.png, id=280, 715.67375pt x 410.53375pt>
+<sterile_print_zaman.png, id=118, 715.67375pt x 410.53375pt>
 File: sterile_print_zaman.png Graphic file (type png)
 
 <use sterile_print_zaman.png>
-Package pdftex.def Info: sterile_print_zaman.png used on input line 543.
+Package pdftex.def Info: sterile_print_zaman.png used on input line 542.
 (pdftex.def)             Requested size: 207.56285pt x 119.06425pt.
- <terrific_broth.jpg, id=282, 642.4pt x 481.8pt>
-File: terrific_broth.jpg Graphic file (type jpg)
 
-<use terrific_broth.jpg>
-Package pdftex.def Info: terrific_broth.jpg used on input line 563.
+
+LaTeX Warning: Reference `plate' on page 7 undefined on input line 556.
+
+<terrific_broth.jpg, id=119, 642.4pt x 481.8pt>
+File: terrific_broth.jpg Graphic file (type jpg)
+ <use terrific_broth.jpg>
+Package pdftex.def Info: terrific_broth.jpg used on input line 562.
 (pdftex.def)             Requested size: 207.56285pt x 155.67152pt.
- <anaerobe_meat_broth.jpg, id=286, 602.25pt x 803.0pt>
+
+
+Package natbib Warning: Citation `seaweed_human_gut' on page 7 undefined on inp
+ut line 575.
+
+
+LaTeX Warning: Reference `plate' on page 7 undefined on input line 578.
+
+
+LaTeX Warning: Reference `contamination_id' on page 7 undefined on input line 5
+79.
+
+<anaerobe_meat_broth.jpg, id=120, 602.25pt x 803.0pt>
 File: anaerobe_meat_broth.jpg Graphic file (type jpg)
 
 <use anaerobe_meat_broth.jpg>
-Package pdftex.def Info: anaerobe_meat_broth.jpg used on input line 584.
+Package pdftex.def Info: anaerobe_meat_broth.jpg used on input line 583.
 (pdftex.def)             Requested size: 207.56285pt x 276.75348pt.
+
+
+LaTeX Warning: Reference `plate' on page 7 undefined on input line 589.
+
+
+LaTeX Warning: Reference `plate' on page 7 undefined on input line 589.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+Package natbib Warning: Citation `cell_culture' on page 7 undefined on input li
+ne 598.
+
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 602.
+
 [7 <./sterile_print_zaman.png> <./terrific_broth.jpg>]
-<streak_plate.jpg, id=303, 642.4pt x 481.8pt>
+
+LaTeX Warning: Reference `meat_broth' on page 8 undefined on input line 606.
+
+
+LaTeX Warning: Reference `plate' on page 8 undefined on input line 607.
+
+
+Package natbib Warning: Citation `nr' on page 8 undefined on input line 618.
+
+<streak_plate.jpg, id=131, 642.4pt x 481.8pt>
 File: streak_plate.jpg Graphic file (type jpg)
  <use streak_plate.jpg>
-Package pdftex.def Info: streak_plate.jpg used on input line 631.
+Package pdftex.def Info: streak_plate.jpg used on input line 630.
 (pdftex.def)             Requested size: 207.56285pt x 155.67152pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `AYE_broth' on page 8 undefined on input line 
+650.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <./anaerobe_meat_broth.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 676.
 
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 651.
+
+[8 <./anaerobe_meat_broth.jpg>]
+
+Package natbib Warning: Citation `seaweed_human_gut' on page 9 undefined on inp
+ut line 657.
+
+
+LaTeX Warning: Reference `3Dprinting' on page 9 undefined on input line 670.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 675.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 676.
- [9 <./streak_plate.jpg>] [10] (./main.bbl
-Underfull \hbox (badness 7344) in paragraph at lines 55--59
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 675.
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 691.
+
+[9 <./streak_plate.jpg>]
+
+LaTeX Warning: Reference `3Dprinting' on page 10 undefined on input line 697.
+
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 771.
+
+[10] (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 []\OT1/ptm/m/n/10 (+20) Gilding, D. K. and Reed, A. M. (1979).  Biodegrad-able 
 poly-mers for use in
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 93.
 
 [11]
 Underfull \hbox (badness 10000) in paragraph at lines 173--177
@@ -1622,47 +1889,74 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--177
 tory molecule in bac-te-ria!
  []
 
-) 
+
+Underfull \hbox (badness 1062) in paragraph at lines 190--193
+[]\OT1/ptm/m/n/10 (+20) Zaman, L. (2014b).  48hr go-ing strong with no growth @
+ryneches @run-for-sushi @re-len-ski
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 798.
+
+
 AED: lastpage setting LastPage
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 798.
+
 [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 799.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 799.
- (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 799.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 799.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D93FA2B60D0F1755019686AE6D0243F7;1401.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 798.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 798.
+ (./main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 798.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 798.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  D93FA2B60D0F1755019686AE6D0243F7;1401.
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 799.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 798.
  ) 
 Here is how much of TeX's memory you used:
- 22062 strings out of 495021
- 394237 string characters out of 6181343
- 604042 words of memory out of 5000000
- 24496 multiletter control sequences out of 15000+600000
- 65292 words of font info for 271 fonts, out of 8000000 for 9000
+ 22021 strings out of 495021
+ 393749 string characters out of 6181343
+ 597299 words of memory out of 5000000
+ 24476 multiletter control sequences out of 15000+600000
+ 65074 words of font info for 258 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  62i,12n,75p,1242b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{page.13} has been referenced but does not exist, 
-replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
-vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on main.pdf (12 pages, 4351488 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
+rw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
+uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmri8a.pfb>
+Output written on main.pdf (12 pages, 4345745 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
- 47362 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 47202 words of extra memory for PDF output out of 51595 (max. 10000000)
 
