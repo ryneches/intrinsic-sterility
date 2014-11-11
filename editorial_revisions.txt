@@ -88,6 +88,10 @@ an include?
 included in the metadata here instead
 <https://peerj.com/manuscripts/2804/keywords/>.
 
+RYN : Done (see 0bc5ea1).
+
+https://github.com/ryneches/intrinsic-sterility/commit/0bc5ea1df72ac46d43a2c934b7438370d4269c77#diff-a45f2757f94fd2337ebf7ddd018c11a2
+
 7. Please remove the Funding paragraph from your manuscript and make sure it
 is included in the metadata here instead
 <https://peerj.com/manuscripts/2804/declarations/#reqStatement>.
