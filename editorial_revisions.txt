@@ -1,0 +1,76 @@
+Editorial instructions and revisions
+====================================
+
+1.  Please indicate your agreement to the Creative Commons Copyright Licence
+(CC-BY) statement by replying Yes to this email (if anyone in your group
+cannot sign to the CCAL 4.0 because they cannot claim copyright, please let me
+know who and why so we can get you the right CC license).
+
+2. If you feel you can answer this now, please do. Otherwise I will check with
+you again if the manuscript is accepted:
+
+We are encouraging all authors to publish their peer review history alongside
+their article. This provision has been extremely well received so far. See:
+http://blog.peerj.com/post/43139131280/the-reception-to-peerjs-open-peer-
+review ; http://www.scilogs.com/next_regeneration/new-directions-in-
+scientific-peer-review/  and http://svpow.com/2013/02/14/open-peer-review-at-
+peerj/.
+
+An example of this happening in practice is at: https://peerj.com/reviews/8/
+
+Even if you feel the review history doesn't add anything to the manuscript,
+please be assured that readers find this information useful, it has been cited
+as a helpful learning tool regardless of how the process went.
+
+Please can you confirm whether or not you would like to take advantage of this
+facility? Please reply Yes (to reproduce) or No (to not reproduce).
+
+This will consist of: 
+
+- All the reviewers’ comments from each iteration, including the reviewers's
+  names where they have agreed to reveal their names
+- All previous versions of the manuscripts
+- All the responses to reviewers
+
+3. Please provide the source file for the manuscript here
+<https://peerj.com/manuscripts/2804/files/>. We need a text document for your
+manuscript, ie: ODT, DOC, DOCX. If your preference is to provide a LaTeX file,
+that would be acceptable as well - we'd just need your tex and bib files
+uploaded using the Primary Files, LaTeX Source File category, and please
+continue to provide the Tables and Figures separately so that we have a
+reference for comparison.
+
+4. Please upload your figures in either EPS (best suited to vector images, and
+not photographs) or PNG file format (best suited to bitmap or raster images).
+Bitmap figures should be at least 900 by 900 pixels. Each figure with multiple
+parts should label each part alphabetically and all parts should be submitted
+together in one file. The complete figure titles and legends should be
+inserted in the text fields using the Edit Details button to the right of the
+file name here <https://peerj.com/manuscripts/2804/files/>. Please use numbers
+to name your files, example: Fig1.eps, Fig2.png.
+
+5. Please upload the tables in separate Word documents including the titles
+and any necessary legends in the text fields using the Edit Details button to
+the right of the file name here <https://peerj.com/manuscripts/2804/files/>.
+Tables should not be an image pasted into the Word document. The file should
+be named using the table number: Table1.doc, Table2.doc.
+
+6. Please remove the Keywords from your manuscript and make sure they are
+included in the metadata here instead
+<https://peerj.com/manuscripts/2804/keywords/>.
+
+7. Please remove the Funding paragraph from your manuscript and make sure it
+is included in the metadata here instead
+<https://peerj.com/manuscripts/2804/declarations/#reqStatement>.
+
+8. Please remove the Mice paragraph from your manuscript and make sure it is
+included in the metadata here instead
+<https://peerj.com/manuscripts/2804/declarations/#studyDesign>.
+
+9. We notice that the author affiliations you have provided in the system are
+slightly different to those in the document. As our system will treat these
+affiliations as metadata, please ensure that both the 'system version' and the
+'document version' are complete and similar. Please edit the author
+affiliations by clicking “Edit details” or "Details Needed" here
+<https://peerj.com/manuscripts/2804/authors/>, and edit your manuscript source
+file and upload it here <https://peerj.com/manuscripts/2804/files/>.
