@@ -6,6 +6,10 @@ Editorial instructions and revisions
 cannot sign to the CCAL 4.0 because they cannot claim copyright, please let me
 know who and why so we can get you the right CC license).
 
+RYN : Yes, I agree to publish this article under a CC-BY 4.0 license. The
+ability to do so was, in fact, one of the reasons we chose PeerJ in the first
+place.
+
 2. If you feel you can answer this now, please do. Otherwise I will check with
 you again if the manuscript is accepted:
 
@@ -32,6 +36,8 @@ This will consist of:
 - All previous versions of the manuscripts
 - All the responses to reviewers
 
+RYN : Yes, this sounds fantastic!
+
 3. Please provide the source file for the manuscript here
 <https://peerj.com/manuscripts/2804/files/>. We need a text document for your
 manuscript, ie: ODT, DOC, DOCX. If your preference is to provide a LaTeX file,
@@ -39,6 +45,21 @@ that would be acceptable as well - we'd just need your tex and bib files
 uploaded using the Primary Files, LaTeX Source File category, and please
 continue to provide the Tables and Figures separately so that we have a
 reference for comparison.
+
+RYN : Would it be acceptable to track the changes using git? For example, here
+are the commit messages so far for the revisions :
+
+https://github.com/ryneches/intrinsic-sterility/commits/master/main.tex
+
+You can view the changes for each individual commit by clicking on the
+little commit string (e.g., try 97d12ee), which shows me deleting some
+characters contributed to the document by my cat :
+
+https://github.com/ryneches/intrinsic-sterility/commit/97d12eed78c3611151886356ecff93200e4ad10e#diff-a45f2757f94fd2337ebf7ddd018c11a2
+
+This way, in the rebuttal letter, I can refer to specific changes in the
+document (which may not be a contiguous block of text) by their commit
+tag.
 
 4. Please upload your figures in either EPS (best suited to vector images, and
 not photographs) or PNG file format (best suited to bitmap or raster images).
@@ -49,11 +70,19 @@ inserted in the text fields using the Edit Details button to the right of the
 file name here <https://peerj.com/manuscripts/2804/files/>. Please use numbers
 to name your files, example: Fig1.eps, Fig2.png.
 
+RYN : Do you mean you want me to break out the {figure} and {table} blocks (the
+part of the LaTeX document that includes stuff like the title and caption)
+into their own source files?
+
 5. Please upload the tables in separate Word documents including the titles
 and any necessary legends in the text fields using the Edit Details button to
 the right of the file name here <https://peerj.com/manuscripts/2804/files/>.
 Tables should not be an image pasted into the Word document. The file should
 be named using the table number: Table1.doc, Table2.doc.
+
+RYN : Uh... how do you want me to do this with LaTeX tables? Should I split
+them into their own LaTeX files, and then pull them in the main document with
+an include?
 
 6. Please remove the Keywords from your manuscript and make sure they are
 included in the metadata here instead
@@ -74,3 +103,5 @@ affiliations as metadata, please ensure that both the 'system version' and the
 affiliations by clicking “Edit details” or "Details Needed" here
 <https://peerj.com/manuscripts/2804/authors/>, and edit your manuscript source
 file and upload it here <https://peerj.com/manuscripts/2804/files/>.
+
+RYN : Yes, we had a few people join new institutions right when we were
