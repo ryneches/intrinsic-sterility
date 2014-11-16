@@ -52,7 +52,7 @@ are the commit messages so far for the revisions :
 https://github.com/ryneches/intrinsic-sterility/commits/master/main.tex
 
 You can view the changes for each individual commit by clicking on the
-little commit string (e.g., try 97d12ee), which shows me deleting some
+little commit string (e.g., try #97d12ee), which shows me deleting some
 characters contributed to the document by my cat :
 
 https://github.com/ryneches/intrinsic-sterility/commit/97d12eed78c3611151886356ecff93200e4ad10e#diff-a45f2757f94fd2337ebf7ddd018c11a2
@@ -88,17 +88,21 @@ an include?
 included in the metadata here instead
 <https://peerj.com/manuscripts/2804/keywords/>.
 
-RYN : Done (see 0bc5ea1).
-
+RYN : Done (see #0bc5ea1).
+                
 https://github.com/ryneches/intrinsic-sterility/commit/0bc5ea1df72ac46d43a2c934b7438370d4269c77#diff-a45f2757f94fd2337ebf7ddd018c11a2
 
 7. Please remove the Funding paragraph from your manuscript and make sure it
 is included in the metadata here instead
 <https://peerj.com/manuscripts/2804/declarations/#reqStatement>.
 
+RYN : Done (see #8bddfa8 and #cf2afd4).
+
 8. Please remove the Mice paragraph from your manuscript and make sure it is
 included in the metadata here instead
 <https://peerj.com/manuscripts/2804/declarations/#studyDesign>.
+
+RYN : Done (see #f6aa404).
 
 9. We notice that the author affiliations you have provided in the system are
 slightly different to those in the document. As our system will treat these
@@ -109,3 +113,4 @@ affiliations by clicking “Edit details” or "Details Needed" here
 file and upload it here <https://peerj.com/manuscripts/2804/files/>.
 
 RYN : Yes, we had a few people join new institutions right when we were
+submitting. I'll get that sorted out.
