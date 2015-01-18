@@ -61,10 +61,62 @@ help to indicate where heating and sterilization as observed is happening. The
 authors further reference high pressures in the nozzle, but provide no
 quantitative measure or characterization.
 
+Response : Extruder forces vary considerably over the course of a print, and
+the pulsed nature of a stepper-motor driven setup is likely to drive transient
+shocks that exceed the ambient pressure during continuous flow. When the
+extruder force slackens during travel operations, or during retraction
+operations, the pressure within the nozzle will drop to or perhaps below
+atmospheric pressure. There is also variability among materials, extruder
+designs, nozzle designs and so on. So, it is difficult to give a specific
+number. 
+
+With these caveats, the maximum sustained pressure of our printer could
+perhaps suffice to give readers an upper bound for the pressures that may be
+involved. Our printer, an Ultimaker Original with a v2 extruder and v2 nozzle,
+has an empirically measured holding force of 50-60 Newtons. The nozzle
+diameter is 0.4 mm, with an area of pi * 0.2^2 = 0.13 mm^2. That works out to
+nearly 397,887,693 pascals at the nozzle aperture, or nearly 4000 atmospheres,
+or 57,000 PSI. Normal printing conditions would be at lower pressures, but
+transient pulses or blockages could result in pressure spikes of this order.
+
 2) the window of 10-120 s for FDM is quite large. The authors should indicate
 sterilization times as a function of melt extrusion rate, since faster rates
 of extrusion may not heat the plastic for sufficient time to lead to full
 sterility, according to their model of sterilization through extrusion.
+
+Response : There is variability among different nozzle designs. For our
+printer, which has a melt zone of about 10mm and a filament diameter of
+2.89mm, the total volume of material in the molten phase is about 65 cubic
+millimeters. For a layer height of 0.2mm and a nozzle diameter of 0.4mm, the
+printer puts down 0.08 cubic millimeters of material per millimeter of
+printing. We generally run our printer at a maximum feed rate of 50 mm/s, or
+about 4 cubic millimeters of material per second. Thus, the plastic remains in
+the molten phase within the nozzle for about 16 seconds during continuous
+printing. However, continuous printing is often interrupted or slowed. Many
+print plans require the nozzle to travel across a gap, where no material is
+put down. This will cause a delay in extrusion, and lengthen the thermal
+contact time of the plastic. Additionally, many print plans have an outer
+region, or "shell," that is usually printed at a lower feed rate than the rest
+of the print volume. Last of all, print planing software usually sets a
+minimum time for each layer to guarantee the plastic cools sufficiently to
+support the next layer. For small parts, the printer may run as slow as 3-5
+mm/s, which would result in a thermal contact time of 162 to 270 seconds.
+
+To calculate the thermal contact time, use the formula 
+
+h  = layer height
+fd = filament diameter
+nd = nozzle diameter
+m  = melt zone
+f  = feed rate in mm/s
+
+mv = m*pi*(fd/2)^2 (melt volume)
+dd = h*nd (bead cross-sectional area)
+dr = dd*f (deposit flow rate)
+T  = mv/dr (thermal contact time)
+
+T = (m*pi*(fd/2)^2) / (h*nd*f)
+
 
 3) the authors equate consumer-grade FDM PLA plastic with medical grade
 polylactic acid. However, the authors do not provide evidence of the ease with
@@ -75,6 +127,16 @@ filaments. The authors should carefully distinguish FDM PLA filament from
 medical grade polylactic acid or provide sufficient characterization of said
 PLA filament to prove equivalence. In particular, the colorings chosen or
 degradation products may lead to cytotoxicity.
+
+Response : We do not equate these materials in terms of their clinical use.
+Consumer PLA filament for 3D printers is not appropriate for medical
+applications precisely for the reasons stated here; there is no toxicology
+data available for additives that may be present. However, we do claim that
+consumer and medical grade PLA has broadly equivalent mechanical properties --
+specifically, that they melt under the same range of temperatures. We believe
+it is reasonable to suppose that consumer-grade and medical-grade PLA filament
+would behave similarly (or identically) in terms of how its sterility is
+affected by heat and pressure.
 
 4) Figure 3 needs a scale bar. Further, the referenced data of "cell size,
 morphology, and confluency" did not appear to be presented anywhere. Further,
@@ -88,6 +150,10 @@ others.
 title, but the authors only investigate FDM. Thus, the title should be
 narrowed to fit the manuscript, perhaps as: "On the intrinsic sterility of
 melt-extrusion 3D printing".
+
+Response : We have added a section investigating the sterility of parts
+produced by two forms of photopolymerization technologies, Objet's proprietary
+technology and stereolithography.
 
 Overall this is an interesting and important work and would be suitable for
 publication if these concerns can be sufficiently addressed.
@@ -121,11 +187,29 @@ topology of cylinder scaffold used is simple, it must be realised scaffolds
 with more complex topology where the presence of interconnected struts can
 alter the sterility of structure.
 
+Response : We agree that the topology of 3D printed parts is likely to be
+important, particularly for mediating surface interactions with different cell
+lines in cell culture. Nevertheless, our experiments were intended to explore
+the relatively narrow question of feasibility. We show that it is, at least
+*POSSIBLE* to make sterile parts using 3D printing, and it is at least
+possible under *SOME* circumstances to use 3D printed parts in contact with
+cell cultures without an obviously negative impact on development. Our
+motivation for conducting these experiments and submitting this manuscript was
+to inspire further, more focused research of precisely the type you
+suggesting.
+
 Validity of the findings
 
 the results are really interesting but i'm not sure if the scaffold topology
 is more complex these findings will be valide. More experiments increasing the
 3D topology should be performed.
+
+Response : We agree that more detailed exploration of surface interactions
+with 3D printed materials is needed. This is a vast question entraining a
+combinatoric explosion of cell types, lineages, growth conditions, induced
+conditions, surface geometries, surface materials, printing technologies and
+printing conditions. We eagerly anticipate studying examples in the
+literature.
 
 Comments for the author
 

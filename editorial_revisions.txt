@@ -24,7 +24,7 @@ An example of this happening in practice is at: https://peerj.com/reviews/8/
 
 Even if you feel the review history doesn't add anything to the manuscript,
 please be assured that readers find this information useful, it has been cited
-as a helpful learning tool regardless of how the process went.
+as a helpful learning tool regardles sof how the process went.
 
 Please can you confirm whether or not you would like to take advantage of this
 facility? Please reply Yes (to reproduce) or No (to not reproduce).
