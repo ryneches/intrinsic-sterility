@@ -138,7 +138,11 @@ T(f) = \frac{m \pi \left(\frac{d_f}{2}\right)^2}{ d_n h f }
 layer height, $d_f$ is the filament diameter, $d_n$ is the nozzle diameter,
 $m$ is the length of the melt zone. Because the length of the melt zone can be
 difficult to measure directly, but it may be inferred by using the area within
-the nozzle that has to be cleaned of melted plastic after a jam.
+the nozzle that has to be cleaned of melted plastic after a jam. For a feed
+rate of 50 mm/s, the thermal contact time in our 3D printer is about 16
+seconds at 220$\,^{\circ}\mathrm{C}$, although the print plan for a given part
+usually involves non-printing travel commands and regions where printing is
+carried out at a slower feed rate, resulting in longer thermal contact times.
 
 \begin{figure}
   \begin{minipage}[c]{0.60\linewidth}
