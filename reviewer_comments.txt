@@ -61,23 +61,37 @@ help to indicate where heating and sterilization as observed is happening. The
 authors further reference high pressures in the nozzle, but provide no
 quantitative measure or characterization.
 
-Response : Extruder forces vary considerably over the course of a print, and
-the pulsed nature of a stepper-motor driven setup is likely to drive transient
-shocks that exceed the ambient pressure during continuous flow. When the
-extruder force slackens during travel operations, or during retraction
-operations, the pressure within the nozzle will drop to or perhaps below
-atmospheric pressure. There is also variability among materials, extruder
-designs, nozzle designs and so on. So, it is difficult to give a specific
-number. 
+Response : We have added a brief discussion of pressures. Extruder
+forces vary considerably over the course of a print, and the pulsed
+nature of a stepper-motor driven setup is likely to drive transient
+shocks that exceed the ambient pressure during continuous flow. When
+the extruder force slackens during travel operations, or during
+retraction operations, the pressure within the nozzle will drop to or
+perhaps below atmospheric pressure. The materials themselves also have
+complicated hydrodynamics, owing to the fact that they are
+non-Newtonian fluids (like corn starch and water, sometimes called
+"ooblek," from the Dr. Seuss book). There is also variability among
+materials, extruder designs, nozzle designs and so on. So, it is
+difficult to give a specific number.
 
-With these caveats, the maximum sustained pressure of our printer could
-perhaps suffice to give readers an upper bound for the pressures that may be
-involved. Our printer, an Ultimaker Original with a v2 extruder and v2 nozzle,
-has an empirically measured holding force of 50-60 Newtons. The nozzle
-diameter is 0.4 mm, with an area of pi * 0.2^2 = 0.13 mm^2. That works out to
-nearly 397,887,693 pascals at the nozzle aperture, or nearly 4000 atmospheres,
-or 57,000 PSI. Normal printing conditions would be at lower pressures, but
-transient pulses or blockages could result in pressure spikes of this order.
+With these caveats, the maximum sustained pressure of our printer
+could perhaps suffice to give readers an upper bound for the pressures
+that may be involved. Our printer, an Ultimaker Original with a v2
+extruder and v2 nozzle, has an empirically measured holding force of
+50-60 Newtons. The nozzle diameter is 0.4 mm, with an area of pi *
+0.2^2 = 0.13 mm^2. That works out to nearly 397,887 kPa at the nozzle
+aperture, or nearly 4000 atmospheres, or 57,000 PSI. Normal printing
+conditions would be at lower pressures, but transient pulses or
+blockages could result in pressure spikes of this order. In practice,
+the pressure is probably much lower than this unless there is a
+jam. Making a different set of assumptions about the hydrodynamics,
+the pressure could be distributed evenly over the inside of the whole
+mozzle. In this case, it should be about 600 kPa, or about triple the
+highest autoclave pressure. Typical printing conditions usually avoid
+loading the extruder motor this much, but one could achieve nearly
+whatever pressure is desired by choosing a print temperature somewhere
+along the very narrow range of temperatures within the glass
+transition.
 
 2) the window of 10-120 s for FDM is quite large. The authors should indicate
 sterilization times as a function of melt extrusion rate, since faster rates
@@ -117,6 +131,8 @@ T  = mv/dr (thermal contact time)
 
 T = (m*pi*(fd/2)^2) / (h*nd*f)
 
+We have added this consideration to the manuscript.
+
 
 3) the authors equate consumer-grade FDM PLA plastic with medical grade
 polylactic acid. However, the authors do not provide evidence of the ease with
@@ -145,6 +161,26 @@ appear to be quantified. The authors need to provide the light wavelength used
 and an estimate or quantitation of the fluence (typically given as mW/cm2) and
 time scale utilized for these sterilization procedures to allow replication by
 others.
+
+Response : Cell size, morphology and confluence were observed by
+microscopy; Figure 3 is a representative example of same. We believe
+this is sufficient for an observation that is qualitative in
+nature. Our observations support any claim regarding the frequency of
+this outcome. Nevertheless, we feel that the community may find it
+interesting that it is at least not impossible to use 3D printed parts
+in conjunction with cell culture without evident deleterious or
+anomalous effects.
+
+Regarding the quantification of UV flux, we regret that we cannot
+accurately report this information. We did not measure the duration of
+exposure or the distance from the source, other than to report that we
+used a laminar flow hood equipped with a UV bulb, and that the
+duration of exposure was at least ten minutes. The bulb, which was
+recently replaced, is as follows :
+
+   Philips 308643 - TUV15W G15T8 Germicidal Fluorescent Light Bulb
+
+We will add this to the list of equipment used in the manuscript.
 
 5) There are many kinds of "3D printing" as referenced by the overly broad
 title, but the authors only investigate FDM. Thus, the title should be
@@ -227,6 +263,9 @@ Basic reporting
 - The submission follows PeerJ's policies
 - The article is written in English, it is clear but it has a couple (about 5) 
   misspelling errors that should be corrected
+
+Response : We've found a few and corrected them. Hopefully we got them all.
+
 - The article provides sufficient background
 - The structure is fine
 - Figures are relevant to the contents
@@ -259,12 +298,35 @@ Comments for the author
 Please add information about:
 - (minor changes) Firmware used in the machines where you printed the parts, 
   specially if there were any alterations from the original ones
+
+Response : We used the standard, unmodified firmware builds
+distributed by Ultimaker that current at the time. We have added this
+information to the manuscript.
+
 - (minor changes) External ways to assess the machines are working according
   to the information they show in their displays like using an IR temperature
   gun to confirm the temperature on the extruder, etc. It is important to know
   how far you went in making sure the machines were working as expected
+
+Respose (RYN) : When I first assembled my machine, I used an IR
+thermometer to verify the reported temperature, and found it to be
+correct to within the accuracy of the IR thermometer. I have not
+checked the calibration regularly, as it seems to be doing a fine job
+of melting plastic. While accurate temperature control is of great
+importance for making beautiful prints, I note that from a bacteria's
+point of view, 220C is not a marked improvement over 225C.
+
 - (optional) It would be great if you added some more information about your
   future plans in this field. I would love to see a large-size experiment where
   you asked people to create your normalized test (I consider the cylinder is a
   normalized test) and send it for testing alongside a description of the
   machine they are using
+
+Response : We hope to publish a follow a follow-up soon! However, we
+think the parameters that are important to explore are more growth
+conditions. While the conditions we tried were as broad as we could
+easily make them, they are nevertheless selective for particular
+groups of organisms. We would also like to find a way to adapt an
+autoclave standard test to this system. Most off-the-shelf standards
+are sealed ampules containing sporulated cells, and there isn't an
+obvious way to push them through a 3D printer.
