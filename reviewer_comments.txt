@@ -162,14 +162,14 @@ and an estimate or quantitation of the fluence (typically given as mW/cm2) and
 time scale utilized for these sterilization procedures to allow replication by
 others.
 
-Response : Cell size, morphology and confluence were observed by
-microscopy; Figure 3 is a representative example of same. We believe
-this is sufficient for an observation that is qualitative in
-nature. Our observations support any claim regarding the frequency of
-this outcome. Nevertheless, we feel that the community may find it
-interesting that it is at least not impossible to use 3D printed parts
-in conjunction with cell culture without evident deleterious or
-anomalous effects.
+Response : Scale bars have been added. Cell size, morphology and
+confluence were observed by microscopy; Figure 3 is a representative
+example of same. We believe this is sufficient for an observation that
+is qualitative in nature. Our observations support any claim regarding
+the frequency of this outcome. Nevertheless, we feel that the
+community may find it interesting that it is at least not impossible
+to use 3D printed parts in conjunction with cell culture without
+evident deleterious or anomalous effects.
 
 Regarding the quantification of UV flux, we regret that we cannot
 accurately report this information. We did not measure the duration of
